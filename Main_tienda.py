@@ -1,5 +1,5 @@
 
-from Tienda import *
+from Tienda_casa import *
 val=True
 carrito=[]
 while val:
